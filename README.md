@@ -23,3 +23,5 @@ This Is A Basic Text Display On Go Used For Education, It is a starting point fo
 ### File Extentions
 1. .go
 2. .md
+3. .gitignore
+4.  Licence
